@@ -1,0 +1,111 @@
+Year,No.,Name,Net worth (USD),Age,Nationality,Source(s) of wealth
+2025,1,Elon Musk,$342 billion,53,South AfricaCanadaUnited States,TeslaandSpaceX
+2025,2,Mark Zuckerberg,$216 billion,40,United States,Meta Platforms
+2025,3,Jeff Bezos,$215 billion,61,United States,Amazon
+2025,4,Larry Ellison,$192 billion,80,United States,Oracle Corporation
+2025,5,Bernard Arnault& family,$178 billion,76,France,LVMH
+2025,6,Warren Buffett,$154 billion,94,United States,Berkshire Hathaway
+2025,7,Larry Page,$144 billion,52,United States,Google
+2025,8,Sergey Brin,$138 billion,51,United States,Google
+2025,9,Amancio Ortega,$124 billion,89,Spain,"Inditex,Zara"
+2025,10,Steve Ballmer,$118 billion,69,United States,Microsoft
+2024,1,Bernard Arnault& family,$233 billion,75,France,LVMH
+2024,2,Elon Musk,$195 billion,52,South AfricaCanadaUnited States,"Tesla,SpaceX"
+2024,3,Jeff Bezos,$194 billion,60,United States,Amazon
+2024,4,Mark Zuckerberg,$177 billion,39,United States,Meta Platforms
+2024,5,Larry Ellison,$141 billion,79,United States,Oracle Corporation
+2024,6,Warren Buffett,$133 billion,93,United States,Berkshire Hathaway
+2024,7,Bill Gates,$128 billion,68,United States,Microsoft
+2024,8,Steve Ballmer,$121 billion,68,United States,Microsoft
+2024,9,Mukesh Ambani,$116 billion,66,India,Reliance Industries
+2024,10,Larry Page,$114 billion,51,United States,Google
+2023,1,Bernard Arnault& family,$211 billion,74,France,LVMH
+2023,2,Elon Musk,$180 billion,51,South AfricaCanadaUnited States,"Tesla,SpaceX"
+2023,3,Jeff Bezos,$114 billion,59,United States,Amazon
+2023,4,Larry Ellison,$107 billion,78,United States,Oracle Corporation
+2023,5,Warren Buffett,$106 billion,92,United States,Berkshire Hathaway
+2023,6,Bill Gates,$104 billion,67,United States,Microsoft
+2023,7,Michael Bloomberg,$94.5 billion,81,United States,Bloomberg L.P.
+2023,8,Carlos Slim& family,$93 billion,83,Mexico,"Telmex,América Móvil,Grupo Carso"
+2023,9,Mukesh Ambani,$83.4 billion,65,India,Reliance Industries
+2023,10,Steve Ballmer,$80.7 billion,67,United States,Microsoft
+2022,1,Elon Musk,$219 billion,50,South AfricaCanadaUnited States,"Tesla,SpaceX"
+2022,2,Jeff Bezos,$177 billion,58,United States,Amazon
+2022,3,Bernard Arnault& family,$158 billion,73,France,LVMH
+2022,4,Bill Gates,$129 billion,66,United States,Microsoft
+2022,5,Warren Buffett,$118 billion,91,United States,Berkshire Hathaway
+2022,6,Larry Page,$111 billion,49,United States,Google
+2022,7,Sergey Brin,$107 billion,48,United States,Google
+2022,8,Larry Ellison,$106 billion,77,United States,Oracle Corporation
+2022,9,Steve Ballmer,$91.4 billion,66,United States,Microsoft
+2022,10,Mukesh Ambani,$90.7 billion,64,India,Reliance Industries
+2021,1,Jeff Bezos,$177 billion,57,United States,Amazon
+2021,2,Elon Musk,$151 billion,49,South AfricaCanadaUnited States,"Tesla,SpaceX"
+2021,3,Bernard Arnault& family,$150 billion,72,France,LVMH
+2021,4,Bill Gates,$124 billion,65,United States,Microsoft
+2021,5,Mark Zuckerberg,$97 billion,36,United States,Meta Platforms
+2021,6,Warren Buffett,$96 billion,90,United States,Berkshire Hathaway
+2021,7,Larry Ellison,$93 billion,76,United States,Oracle Corporation
+2021,8,Larry Page,$91.5 billion,48,United States,Google
+2021,9,Sergey Brin,$89 billion,47,United States,Google
+2021,10,Mukesh Ambani,$84.5 billion,63,India,Reliance Industries
+2020,1,Jeff Bezos,$113 billion,56,United States,Amazon
+2020,2,Bill Gates,$98 billion,64,United States,Microsoft
+2020,3,Bernard Arnault& family,$76 billion,71,France,LVMH
+2020,4,Warren Buffett,$67.5 billion,89,United States,Berkshire Hathaway
+2020,5,Larry Ellison,$59 billion,75,United States,Oracle Corporation
+2020,6,Amancio Ortega,$55.1 billion,84,Spain,"Inditex,Zara"
+2020,7,Mark Zuckerberg,$54.7 billion,35,United States,"Facebook, Inc."
+2020,8,Jim Walton,$54.6 billion,71,United States,Walmart
+2020,9,Alice Walton,$54.4 billion,70,United States,Walmart
+2020,10,S. Robson Walton,$54.1 billion,77,United States,Walmart
+2019,1,Jeff Bezos,$131 billion,55,United States,Amazon
+2019,2,Bill Gates,$96.5 billion,63,United States,Microsoft
+2019,3,Warren Buffett,$82.5 billion,88,United States,Berkshire Hathaway
+2019,4,Bernard Arnault,$76 billion,70,France,LVMH
+2019,5,Carlos Slim,$64 billion,79,Mexico,"América Móvil,Grupo Carso"
+2019,6,Amancio Ortega,$62.7 billion,82,Spain,"Inditex,Zara"
+2019,7,Larry Ellison,$62.5 billion,74,United States,Oracle Corporation
+2019,8,Mark Zuckerberg,$62.3 billion,34,United States,"Facebook, Inc."
+2019,9,Michael Bloomberg,$55.5 billion,77,United States,Bloomberg L.P.
+2019,10,Larry Page,$50.8 billion,45,United States,Google
+2018,1,Jeff Bezos,$112 billion,54,United States,Amazon
+2018,2,Bill Gates,$90 billion,62,United States,Microsoft
+2018,3,Warren Buffett,$84 billion,87,United States,Berkshire Hathaway
+2018,4,Bernard Arnault,$72 billion,69,France,LVMH
+2018,5,Mark Zuckerberg,$71 billion,33,United States,"Facebook, Inc."
+2018,6,Amancio Ortega,$70 billion,81,Spain,"Inditex,Zara"
+2018,7,Carlos Slim,$67.1 billion,78,Mexico,"América Móvil,Grupo Carso"
+2018,8,Charles Koch,$60 billion,82,United States,Koch Industries
+2018,8,David Koch,$60 billion,77,United States,Koch Industries
+2018,10,Larry Ellison,$58.5 billion,73,United States,Oracle Corporation
+2017,1,Bill Gates,$86.0 billion,61,United States,Microsoft
+2017,2,Warren Buffett,$75.6 billion,86,United States,Berkshire Hathaway
+2017,3,Jeff Bezos,$72.8 billion,53,United States,Amazon
+2017,4,Amancio Ortega,$71.3 billion,80,Spain,"Inditex,Zara"
+2017,5,Mark Zuckerberg,$56.0 billion,32,United States,"Facebook, Inc."
+2017,6,Carlos Slim,$54.5 billion,77,Mexico,"América Móvil,Grupo Carso"
+2017,7,Larry Ellison,$52.2 billion,72,United States,Oracle Corporation
+2017,8,Charles Koch,$48.3 billion,81,United States,Koch Industries
+2017,8,David Koch,$48.3 billion,76,United States,Koch Industries
+2017,10,Michael Bloomberg,$47.5 billion,75,United States,Bloomberg L.P.
+2016,1,Bill Gates,$75.0 billion,60,United States,Microsoft
+2016,2,Amancio Ortega,$67.0 billion,79,Spain,Inditex
+2016,3,Warren Buffett,$60.8 billion,85,United States,Berkshire Hathaway
+2016,4,Carlos Slim,$50.0 billion,76,Mexico,"América Móvil,Grupo Carso"
+2016,5,Jeff Bezos,$45.2 billion,52,United States,Amazon
+2016,6,Mark Zuckerberg,$44.6 billion,31,United States,"Facebook, Inc."
+2016,7,Larry Ellison,$43.6 billion,71,United States,Oracle Corporation
+2016,8,Michael Bloomberg,$40.0 billion,74,United States,Bloomberg L.P.
+2016,9,Charles Koch,$39.6 billion,80,United States,Koch Industries
+2016,9,David Koch,$39.6 billion,75,United States,Koch Industries
+2015,1,Bill Gates,$79.2 billion,59,United States,Microsoft
+2015,2,Carlos Slim,$77.1 billion,75,Mexico,"América Móvil,Grupo Carso"
+2015,3,Warren Buffett,$72.7 billion,84,United States,Berkshire Hathaway
+2015,4,Amancio Ortega,$64.5 billion,78,Spain,Inditex
+2015,5,Larry Ellison,$54.3 billion,70,United States,Oracle Corporation
+2015,6,Charles Koch,$42.9 billion,79,United States,Koch Industries
+2015,6,David Koch,$42.9 billion,74,United States,Koch Industries
+2015,8,Christy Walton,$41.7 billion,66,United States,Walmart
+2015,9,Jim Walton,$40.6 billion,66,United States,Walmart
+2015,10,Liliane Bettencourt,$40.1 billion,92,France,L'Oreal
